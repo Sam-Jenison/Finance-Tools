@@ -7,3 +7,5 @@ expected+stat calculator.py - Caculates statistical variables for a custom numbe
 holding period return-yield for a portfolio calculator.py - calculates holding period return, yield, and weight of a portfolio of securities.
 
 divtester2.py - allows user to search any security, specifying the exchange for currency valuation and number of shares, and pulls data for total dividends paid in a custom time period.
+
+EPS scrapper.py - user can quickly pull eps data for any equity.
