@@ -9,3 +9,5 @@ holding period return-yield for a portfolio calculator.py - calculates holding p
 divtester2.py - allows user to search any security, specifying the exchange for currency valuation and number of shares, and pulls data for total dividends paid in a custom time period.
 
 EPS scrapper.py - user can quickly pull eps data for any equity.
+
+option breakeven - a tool for quickly calculating options breakevens with strike and premium values.
